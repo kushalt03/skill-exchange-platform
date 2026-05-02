@@ -45,3 +45,4 @@ A peer-to-peer learning platform where users can teach and learn skills from eac
 1. Clone repo
 2. Configure MySQL in `application.properties`
 3. Run Spring Boot application
+
